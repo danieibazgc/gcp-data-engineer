@@ -138,6 +138,3 @@ Esta práctica demuestra capacidad para:
 - Agregar pruebas automatizadas y CI/CD para scripts de infraestructura.
 - Incorporar monitoreo y logging estructurado.
 
----
-
-Si querés, puedo convertir este README en una versión bilingüe (ES/EN) para aplicar a búsquedas internacionales.
